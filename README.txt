@@ -1,7 +1,7 @@
 THEME: Health - Free Bootstrap 4 Theme
-AUTHOR: uiCookies.com
-LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
-AUTHOR URI: https://uiCookies.com/
+AUTHOR: bhavicreations.com
+LICENSE: Under Creative Commons 3.0 (bhavicreations.com/license)
+AUTHOR URI: https://bhavicreations.com/
 
 
 CREDITS:
