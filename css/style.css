@@ -43,7 +43,7 @@ h5, .h5 {
   color: #fc46aa !important; }
 
 .text-secondary {
-  color: #4fb5e6 !important; }
+  color: #fc45aa !important; }
 
 .navbar-brand {
   text-transform: uppercase;
@@ -133,7 +133,7 @@ h5, .h5 {
     .probootstrap-navbar-dark .probootstrap-search-form .form-group .form-control {
       color: #fff !important;
       border: none;
-      background: #386cb1 !important;
+      background: #88255b !important;
       border-radius: 0;
       padding-left: 20px;
       padding-right: 55px;
@@ -142,7 +142,7 @@ h5, .h5 {
       -o-transition: .3s all ease;
       transition: .3s all ease; }
       .probootstrap-navbar-dark .probootstrap-search-form .form-group .form-control:focus, .probootstrap-navbar-dark .probootstrap-search-form .form-group .form-control:active {
-        background: #3b70b9 !important; }
+        background: #88255b !important; }
       .probootstrap-navbar-dark .probootstrap-search-form .form-group .form-control::-webkit-input-placeholder {
         color: rgba(255, 255, 255, 0.7);
         font-size: 16px; }
@@ -158,7 +158,7 @@ h5, .h5 {
 
 .probootstrap-blog-appointment {
   background: #f2f2f2;
-  background: #4fb5e6;
+  background: #88255b;
   padding: 4em 0 0 0; }
   .probootstrap-blog-appointment .arrow-link:hover {
     color: #fff; }
@@ -181,7 +181,7 @@ h5, .h5 {
   .probootstrap-blog-appointment .probootstrap-form-appointment .form-group {
     position: relative; }
     .probootstrap-blog-appointment .probootstrap-form-appointment .form-group .icon {
-      color: #4fb5e6;
+      color: #fc45aa;
       top: 50%;
       -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
@@ -252,7 +252,7 @@ h5, .h5 {
         color: rgba(255, 255, 255, 0.6); }
   .probootstrap-features-1 .probootstrap-opening {
     padding: 2em 1em;
-    background: #4fb5e6; }
+    background: #fc45aa; }
     .probootstrap-features-1 .probootstrap-opening h2 {
       font-size: 20px;
       text-transform: uppercase;
@@ -286,17 +286,17 @@ h5, .h5 {
 
 .probootstrap-contact-phone {
   font-size: 30px;
-  color: #4fb5e6; }
+  color: #fc45aa; }
   .probootstrap-contact-phone .icon {
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    border: 2px solid #4fb5e6;
+    border: 2px solid #fc45aa;
     position: relative; }
     .probootstrap-contact-phone .icon i {
       top: 50%;
       left: 50%;
-      color: #4fb5e6;
+      color: #fc45aa;
       font-size: 18px;
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
@@ -305,7 +305,7 @@ h5, .h5 {
   .probootstrap-contact-phone .probootstrap-text {
     margin-top: -10px; }
   .probootstrap-contact-phone a {
-    color: #4fb5e6; }
+    color: #fc45aa; }
   .probootstrap-contact-phone small {
     font-size: 13px;
     text-transform: uppercase;
@@ -383,11 +383,11 @@ h5, .h5 {
     color: #fc46aa; }
 
 .btn-outline-secondary {
-  border-color: #4fb5e6 !important;
-  color: #4fb5e6; }
+  border-color: #fc45aa !important;
+  color: #fc45aa; }
   .btn-outline-secondary:hover {
     background: none;
-    color: #4fb5e6; }
+    color: #fc45aa; }
 
 .btn {
   border-radius: 4px;
@@ -411,15 +411,15 @@ h5, .h5 {
     border-color: #fc46aa;
     color: #fff; }
     .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active {
-      border-color: #264877;
-      background: #264877; }
+      border-color: #88255b;
+      background: #88255b; }
   .btn.btn-secondary {
-    background: #4fb5e6;
-    border-color: #4fb5e6;
+    background: #fc45aa;
+    border-color: #fc45aa;
     color: #fff; }
     .btn.btn-secondary:hover, .btn.btn-secondary:focus, .btn.btn-secondary:active {
-      border-color: #22a2e0;
-      background: #22a2e0; }
+      border-color: #e33495;
+      background: #e33495; }
   .btn.btn-outline-white {
     border-color: rgba(255, 255, 255, 0.2);
     background: none; }
@@ -433,7 +433,7 @@ h5, .h5 {
   background: #fc46aa; }
   .probootstrap-aside-stretch-left a,
   .probootstrap-aside-stretch-right a {
-    color: #4fb5e6; }
+    color: #fc45aa; }
     .probootstrap-aside-stretch-left a:hover,
     .probootstrap-aside-stretch-right a:hover {
       color: #fff; }
@@ -469,7 +469,7 @@ h5, .h5 {
     display: block; }
     .probootstrap-aside-stretch-left .probootstrap-light li a,
     .probootstrap-aside-stretch-right .probootstrap-light li a {
-      color: #4fb5e6;
+      color: #f6f6f6;
       display: block; }
       .probootstrap-aside-stretch-left .probootstrap-light li a:hover,
       .probootstrap-aside-stretch-right .probootstrap-light li a:hover {
@@ -483,7 +483,7 @@ h5, .h5 {
   left: 100%; }
 
 .probootstrap-subscribe {
-  background: #4fb5e6;
+  background: #fc45aa;
   padding: 4em 0; }
   .probootstrap-subscribe .form-control::-webkit-input-placeholder {
     color: rgba(255, 255, 255, 0.7);
@@ -506,7 +506,7 @@ h5, .h5 {
   position: relative;
   top: 0; }
   .prbootstrap-team:hover {
-    background: #4fb5e6;
+    background: #fc45aa;
     -webkit-box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.2);
     box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.2);
     position: relative;
@@ -608,12 +608,12 @@ textarea {
   background: #263135; }
 
 .probootstrap-footer {
-  background: #fc46aa;
-  color: #4fb5e6 !important; }
+  background: #88255b;
+  color: #fc45aa !important; }
   .probootstrap-footer a {
-    color: #4fb5e6; }
+    color: #fc45aa; }
   .probootstrap-footer p {
-    color: #4fb5e6 !important; }
+    color: #fc45aa !important; }
   .probootstrap-footer .heading {
     font-size: 12px;
     font-weight: bold;
@@ -632,7 +632,7 @@ textarea {
   border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
   .probootstrap-footer-recent-post li a {
     display: block;
-    color: #4fb5e6; }
+    color: #fc45aa; }
     .probootstrap-footer-recent-post li a span {
       color: rgba(79, 181, 230, 0.4);
       display: block; }
@@ -671,7 +671,7 @@ textarea {
     .probootstrap-footer-social li a {
       font-size: 30px;
       position: relative;
-      color: #4fb5e6; }
+      color: #fc45aa; }
       .probootstrap-footer-social li a:hover {
         color: #fff; }
 
@@ -679,7 +679,7 @@ textarea {
   margin-bottom: 10px; }
 
 .probootstrap-footer-links a {
-  color: #4fb5e6; }
+  color: #fc45aa; }
   .probootstrap-footer-links a:hover, .probootstrap-footer-links a:active, .probootstrap-footer-links a:focus {
     color: #fff; }
 
