@@ -13,16 +13,16 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #fc46aa; }
+  color: #03c5b4; }
   a:hover {
     text-decoration: none;
-    color: #fc46aa; }
+    color: #03c5b4; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.45;
   font-weight: normal;
-  color: #fc46aa; }
+  color: #03c5b4; }
 
 h1, .h1 {
   font-size: 30px; }
@@ -40,17 +40,17 @@ h5, .h5 {
   font-size: 18px; }
 
 .text-primary {
-  color: #fc46aa !important; }
+  color: #03c5b4 !important; }
 
 .text-secondary {
-  color: #fc45aa !important; }
+  color: #03c5b4 !important; }
 
 .navbar-brand {
   text-transform: uppercase;
   letter-spacing: .1em; }
 
 .probootstrap-navbar-dark {
-  background: #fc46aa !important;
+  background: #03c5b4 !important;
   position: relative;
   left: 0;
   right: 0;
@@ -181,7 +181,7 @@ h5, .h5 {
   .probootstrap-blog-appointment .probootstrap-form-appointment .form-group {
     position: relative; }
     .probootstrap-blog-appointment .probootstrap-form-appointment .form-group .icon {
-      color: #fc45aa;
+      color: #03c5b4;
       top: 50%;
       -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
@@ -210,7 +210,7 @@ h5, .h5 {
   color: #859196 !important;
   border-radius: 4px; }
   .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
-    border: 1px solid #fc46aa; }
+    border: 1px solid #03c5b4; }
 
 .probootstrap-features-1 {
   position: relative;
@@ -252,7 +252,7 @@ h5, .h5 {
         color: rgba(255, 255, 255, 0.6); }
   .probootstrap-features-1 .probootstrap-opening {
     padding: 2em 1em;
-    background: #fc45aa; }
+    background: #03c5b4; }
     .probootstrap-features-1 .probootstrap-opening h2 {
       font-size: 20px;
       text-transform: uppercase;
@@ -286,17 +286,17 @@ h5, .h5 {
 
 .probootstrap-contact-phone {
   font-size: 30px;
-  color: #fc45aa; }
+  color: #03c5b4; }
   .probootstrap-contact-phone .icon {
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    border: 2px solid #fc45aa;
+    border: 2px solid #03c5b4;
     position: relative; }
     .probootstrap-contact-phone .icon i {
       top: 50%;
       left: 50%;
-      color: #fc45aa;
+      color: #03c5b4;
       font-size: 18px;
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
@@ -305,7 +305,7 @@ h5, .h5 {
   .probootstrap-contact-phone .probootstrap-text {
     margin-top: -10px; }
   .probootstrap-contact-phone a {
-    color: #fc45aa; }
+    color: #03c5b4; }
   .probootstrap-contact-phone small {
     font-size: 13px;
     text-transform: uppercase;
@@ -355,7 +355,7 @@ h5, .h5 {
       bottom: 0;
       left: 0;
       right: 0;
-      background: #fc46aa;
+      background: #03c5b4;
       height: 2px;
       content: " "; }
   .probootstrap-cover.overlay {
@@ -376,18 +376,18 @@ h5, .h5 {
   font-size: 30px; }
 
 .btn-outline-primary {
-  border-color: #fc46aa !important;
-  color: #fc46aa; }
+  border-color: #03c5b4 !important;
+  color: #03c5b4; }
   .btn-outline-primary:hover {
     background: none;
-    color: #fc46aa; }
+    color: #03c5b4; }
 
 .btn-outline-secondary {
-  border-color: #fc45aa !important;
-  color: #fc45aa; }
+  border-color: #03c5b4 !important;
+  color: #03c5b4; }
   .btn-outline-secondary:hover {
     background: none;
-    color: #fc45aa; }
+    color: #03c5b4; }
 
 .btn {
   border-radius: 4px;
@@ -407,19 +407,19 @@ h5, .h5 {
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn.btn-primary {
-    background: #fc46aa;
-    border-color: #fc46aa;
+    background: #03c5b4;
+    border-color: #03c5b4;
     color: #fff; }
     .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active {
       border-color: #88255b;
       background: #88255b; }
   .btn.btn-secondary {
-    background: #fc45aa;
-    border-color: #fc45aa;
+    background: #03c5b4;
+    border-color: #03c5b4;
     color: #fff; }
     .btn.btn-secondary:hover, .btn.btn-secondary:focus, .btn.btn-secondary:active {
-      border-color: #e33495;
-      background: #e33495; }
+      border-color: #05a193;
+      background: #05a193; }
   .btn.btn-outline-white {
     border-color: rgba(255, 255, 255, 0.2);
     background: none; }
@@ -430,10 +430,10 @@ h5, .h5 {
 
 .probootstrap-aside-stretch-left,
 .probootstrap-aside-stretch-right {
-  background: #fc46aa; }
+  background: #03c5b4; }
   .probootstrap-aside-stretch-left a,
   .probootstrap-aside-stretch-right a {
-    color: #fc45aa; }
+    color: #03c5b4; }
     .probootstrap-aside-stretch-left a:hover,
     .probootstrap-aside-stretch-right a:hover {
       color: #fff; }
@@ -443,7 +443,7 @@ h5, .h5 {
     top: 0;
     right: 100%;
     bottom: 0;
-    background: #fc46aa;
+    background: #03c5b4;
     content: "";
     width: 370%; }
   .probootstrap-aside-stretch-left h2,
@@ -483,7 +483,7 @@ h5, .h5 {
   left: 100%; }
 
 .probootstrap-subscribe {
-  background: #fc45aa;
+  background: #03c5b4;
   padding: 4em 0; }
   .probootstrap-subscribe .form-control::-webkit-input-placeholder {
     color: rgba(255, 255, 255, 0.7);
@@ -499,14 +499,14 @@ h5, .h5 {
     font-size: 16px; }
 
 .prbootstrap-team {
-  background: #fc46aa;
+  background: #03c5b4;
   -webkit-transition: .2s all ease;
   -o-transition: .2s all ease;
   transition: .2s all ease;
   position: relative;
   top: 0; }
   .prbootstrap-team:hover {
-    background: #fc45aa;
+    background: #03c5b4;
     -webkit-box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.2);
     box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.2);
     position: relative;
@@ -570,7 +570,7 @@ textarea {
   visibility: hidden; }
 
 .bg-primary {
-  background: #fc46aa !important; }
+  background: #03c5b4 !important; }
 
 .probootstrap-section.overlay {
   position: relative; }
@@ -608,12 +608,12 @@ textarea {
   background: #263135; }
 
 .probootstrap-footer {
-  background: #88255b;
-  color: #fc45aa !important; }
+  background: #012d29;
+  color: #03c5b4 !important; }
   .probootstrap-footer a {
-    color: #fc45aa; }
+    color: #03c5b4; }
   .probootstrap-footer p {
-    color: #fc45aa !important; }
+    color: #03c5b4 !important; }
   .probootstrap-footer .heading {
     font-size: 12px;
     font-weight: bold;
@@ -621,7 +621,7 @@ textarea {
     letter-spacing: .2em;
     text-transform: uppercase; }
   .probootstrap-footer .probootstrap-copyright p {
-    color: rgba(79, 181, 230, 0.7) !important; }
+    color: rgb(255 255 255 / 70%) !important; }
     .probootstrap-footer .probootstrap-copyright p a {
       color: #fff !important; }
 
@@ -632,7 +632,7 @@ textarea {
   border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
   .probootstrap-footer-recent-post li a {
     display: block;
-    color: #fc45aa; }
+    color: #03c5b4; }
     .probootstrap-footer-recent-post li a span {
       color: rgba(79, 181, 230, 0.4);
       display: block; }
@@ -651,7 +651,7 @@ textarea {
   .probootstrap-footer a {
     color: rgba(255, 255, 255, 0.3); }
     .probootstrap-footer a:hover {
-      color: #fc46aa; }
+      color: #03c5b4; }
   .probootstrap-footer .probootstrap-heading {
     font-size: 24px; }
   .probootstrap-footer .probootstrap-heading-2 {
@@ -671,7 +671,7 @@ textarea {
     .probootstrap-footer-social li a {
       font-size: 30px;
       position: relative;
-      color: #fc45aa; }
+      color: #03c5b4; }
       .probootstrap-footer-social li a:hover {
         color: #fff; }
 
@@ -679,7 +679,7 @@ textarea {
   margin-bottom: 10px; }
 
 .probootstrap-footer-links a {
-  color: #fc45aa; }
+  color: #03c5b4; }
   .probootstrap-footer-links a:hover, .probootstrap-footer-links a:active, .probootstrap-footer-links a:focus {
     color: #fff; }
 
@@ -688,12 +688,12 @@ textarea {
   .footer-small-nav > li a {
     margin: 0 10px 10px 0; }
     .footer-small-nav > li a:hover, .footer-small-nav > li a:focus {
-      color: #fc46aa; }
+      color: #03c5b4; }
 
 .media .probootstrap-icon {
   width: 100px; }
   .media .probootstrap-icon span {
-    color: #fc46aa; }
+    color: #03c5b4; }
 
 .probootstrap-media {
   background: #fff;
@@ -727,7 +727,7 @@ textarea {
     .probootstrap-owl .owl-nav .owl-next {
       position: absolute;
       font-size: 30px;
-      background: #fc46aa;
+      background: #03c5b4;
       color: #fff;
       padding: 10px;
       line-height: 0; }
@@ -750,7 +750,7 @@ textarea {
         display: inline-block;
         margin: 5px 7px; }
       .probootstrap-owl .owl-dots .owl-dot.active span {
-        background: #fc46aa; }
+        background: #03c5b4; }
   .probootstrap-owl:hover .owl-nav {
     visibility: visible;
     opacity: 1; }
@@ -763,7 +763,7 @@ textarea {
   display: block;
   font-size: 72px;
   font-weight: 300;
-  color: #fc46aa; }
+  color: #03c5b4; }
 
 .probootstrap-counter .probootstrap-label {
   font-size: 16px;
